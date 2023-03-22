@@ -1,0 +1,50 @@
+* {
+    /* border: 0;
+    margin: 0; */
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: fff;
+}
+
+.first {
+    margin-top: 10%;
+    width: 790px;
+    height: 790px;
+    border: 1px solid black;
+    background: url(checked1.jpg) no-repeat center/contain;
+}
+
+.fucks {
+    /* width: 150px;
+    height: 150px;
+    background-color: unset;
+    border-radius: 40%;
+    border: 1px solid red;
+    transform: rotate(-34deg);
+    transform: skewY(-10deg);
+    margin-top: 51px;
+    margin-left: 349px; */
+}
+
+h1 {
+    font-size: 4em;
+    margin-left: 349px;
+    transform: rotate(-33deg);
+}
+
+button {
+    font-size: 4em;
+    cursor: pointer;
+    width: 170px;
+    height: 70px;
+    background-color: unset;
+    border-radius: 20%;
+    border: 8px solid #bfbfbf;
+    transform: rotate(-34deg);
+    margin-top: 337px;
+    margin-left: 434px;
+}
