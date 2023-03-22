@@ -14,20 +14,8 @@ body {
     margin-top: 10%;
     width: 790px;
     height: 790px;
-    border: 1px solid black;
+    border: 1px solid #fff;
     background: url(checked1.jpg) no-repeat center/contain;
-}
-
-.fucks {
-    /* width: 150px;
-    height: 150px;
-    background-color: unset;
-    border-radius: 40%;
-    border: 1px solid red;
-    transform: rotate(-34deg);
-    transform: skewY(-10deg);
-    margin-top: 51px;
-    margin-left: 349px; */
 }
 
 h1 {
@@ -37,7 +25,6 @@ h1 {
     margin-top: 267px;
     margin-left: 390px;
     transform: rotate(-32deg);
-    /* border: 1px solid red; */
 }
 
 .update {
@@ -49,10 +36,10 @@ button {
     font-size: 2em;
     cursor: pointer;
     width: 70px;
-    /* height: 60px; */
     background-color: unset;
     border-radius: 20%;
     transform: rotate(-34deg);
     margin-top: 127px;
-    margin-left: 410px;
+    margin-left: 409px;
+    box-shadow: -5px 3px 1px 0px gray;
 }
