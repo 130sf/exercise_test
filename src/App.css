@@ -31,20 +31,28 @@ body {
 }
 
 h1 {
-    font-size: 4em;
-    margin-left: 349px;
-    transform: rotate(-33deg);
+    font-size: 2em;
+    color: #fff;
+    width: 44px;
+    margin-top: 267px;
+    margin-left: 390px;
+    transform: rotate(-32deg);
+    /* border: 1px solid red; */
+}
+
+.update {
+    width: 170px;
+    height: 70px;
 }
 
 button {
-    font-size: 4em;
+    font-size: 2em;
     cursor: pointer;
-    width: 170px;
-    height: 70px;
+    width: 70px;
+    /* height: 60px; */
     background-color: unset;
     border-radius: 20%;
-    border: 8px solid #bfbfbf;
     transform: rotate(-34deg);
-    margin-top: 337px;
-    margin-left: 434px;
+    margin-top: 127px;
+    margin-left: 410px;
 }

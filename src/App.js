@@ -6,7 +6,7 @@ function App() {
   function incCount() {
       setCount(prevCount => {
         console.log(count)
-        console.log(prevCount + " + 1 ")
+        console.log(prevCount + " + + ")
         return prevCount + 1
       })
     }
